@@ -11,6 +11,10 @@ FastAPI is used for building the API, ChromaDB is used for vector storage, Sente
 The project also includes retrieval evaluation metrics such as Recall@k, Hit Rate, MRR, and nDCG, along with answer evaluation using faithfulness and answer relevance scores. A cost comparison between ChromaDB and managed vector databases is also provided.
 
 
+## System Architecture
+
+![System Architecture](screenshort\cost-efficient_rag_architecture_-_aman_raghav.png)
+
 To run the project:
 
 first you create virtual environment
