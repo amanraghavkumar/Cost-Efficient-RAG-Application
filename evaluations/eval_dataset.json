@@ -1,0 +1,102 @@
+[
+    {
+        "question": "How many days of annual leave do employees get?",
+        "expected_answer": "Employees are entitled to 20 days of annual leave per year.",
+        "relevant_chunk_ids": ["company_policy.md"]
+    },
+    {
+        "question": "What is required for sick leave?",
+        "expected_answer": "Sick leave is granted upon submission of a medical certificate.",
+        "relevant_chunk_ids": ["company_policy.md"]
+    },
+    {
+        "question": "How long is the parental leave?",
+        "expected_answer": "Parental leave is available for 12 weeks for new parents.",
+        "relevant_chunk_ids": ["company_policy.md"]
+    },
+    {
+        "question": "How should leave requests be submitted?",
+        "expected_answer": "Leave requests must be submitted at least 2 weeks in advance via the HR portal.",
+        "relevant_chunk_ids": ["company_policy.md"]
+    },
+    {
+        "question": "What is the RAM of Product X?",
+        "expected_answer": "Product X has 32GB RAM.",
+        "relevant_chunk_ids": ["product_info.html"]
+    },
+    {
+        "question": "What is the storage capacity of Product X?",
+        "expected_answer": "Product X has a 1TB SSD.",
+        "relevant_chunk_ids": ["product_info.html"]
+    },
+    {
+        "question": "What display does Product X have?",
+        "expected_answer": "It features a 15-inch OLED display.",
+        "relevant_chunk_ids": ["product_info.html"]
+    },
+    {
+        "question": "What is the battery life of Product X?",
+        "expected_answer": "Product X has a 10-hour battery life.",
+        "relevant_chunk_ids": ["product_info.html"]
+    },
+    {
+        "question": "What is the warranty period for Product X?",
+        "expected_answer": "The warranty period for Product X is 2 years from the date of purchase.",
+        "relevant_chunk_ids": ["product_info.html"]
+    },
+    {
+        "question": "How to contact customer support for Product X?",
+        "expected_answer": "Customer support is available 24/7 via phone and email.",
+        "relevant_chunk_ids": ["product_info.html"]
+    },
+    {
+        "question": "What is the annual leave policy for the company?",
+        "expected_answer": "Employees are entitled to 20 days of annual leave per year.",
+        "relevant_chunk_ids": ["company_policy.md"]
+    },
+    {
+        "question": "Can I get sick leave without a certificate?",
+        "expected_answer": "No, sick leave is granted upon submission of a medical certificate.",
+        "relevant_chunk_ids": ["company_policy.md"]
+    },
+    {
+        "question": "Does Product X have an SSD?",
+        "expected_answer": "Yes, it has a 1TB SSD.",
+        "relevant_chunk_ids": ["product_info.html"]
+    },
+    {
+        "question": "What is the screen size of Product X?",
+        "expected_answer": "15-inch.",
+        "relevant_chunk_ids": ["product_info.html"]
+    },
+    {
+        "question": "How many weeks of parental leave are provided?",
+        "expected_answer": "12 weeks.",
+        "relevant_chunk_ids": ["company_policy.md"]
+    },
+    {
+        "question": "What is the notice period for leave requests?",
+        "expected_answer": "At least 2 weeks in advance.",
+        "relevant_chunk_ids": ["company_policy.md"]
+    },
+    {
+        "question": "Is customer support available on weekends for Product X?",
+        "expected_answer": "Yes, it is available 24/7.",
+        "relevant_chunk_ids": ["product_info.html"]
+    },
+    {
+        "question": "What is the model of the display in Product X?",
+        "expected_answer": "OLED.",
+        "relevant_chunk_ids": ["product_info.html"]
+    },
+    {
+        "question": "Who can take parental leave?",
+        "expected_answer": "New parents.",
+        "relevant_chunk_ids": ["company_policy.md"]
+    },
+    {
+        "question": "What is the total RAM of the high-performance laptop?",
+        "expected_answer": "32GB RAM.",
+        "relevant_chunk_ids": ["product_info.html"]
+    }
+]

@@ -1,0 +1,7 @@
+{
+    "Hit Rate": 1.0,
+    "MRR": 1.0,
+    "Recall": 1.0,
+    "Context Precision": 0.5,
+    "nDCG": 1.0
+}
